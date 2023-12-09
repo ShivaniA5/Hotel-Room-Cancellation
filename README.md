@@ -1,8 +1,15 @@
-# Hotel-Room-Cancellation
-Predicting Cancellation of hotel rooms.
-This project is about predicting if a booked hotel room is going to be cancelled or not. It is a binary classification problem. 
-The dataset contains historical data regarding different features of the hotel room booking and the customer. 
-The target column contains 0 or 1. 
-1 indicates that the room has been cancelled and 0 indicates that the room has not been cancelled.
-The dataset is available in Kaggle. https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+# About the Project
+
+Predicting Hotel Booking Cancellation in Portugal is a machine learning 
+classification project that will try to predict whether a booking will be cancelled or a 
+booking will not be cancelled using machine learning based on historical data.
+The data for this project is from Hotel Booking Demand Dataset Sciencedirect. 
+This data was acquired by extraction from hotel’s Property management system from 2015 to 
+2017 from hotel in Region Algarve and Lisbon. 
+
+The dataset is also available in Kaggle. https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+
+
 
